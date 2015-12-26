@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" ?>
+<root>
+	<language id="swedish">
+		<text id="hello">hej</text>
+		<text id="bye">hej då</text>
+	</language>
+</root>
